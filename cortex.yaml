@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-helmed-horror
+  x-cortex-tag: monster-helmed-horror
+  x-cortex-custom-metadata:
+    alignment: lawful-neutral
+    type: fiend
+    challenge_rating: 30
+    legendary: false
+    armor_class: 11
+    hit_points: 72
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-helmed-horror
+      alias: github-token-test
